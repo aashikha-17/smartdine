@@ -61,16 +61,6 @@ Distance is calculated using the Haversine formula and used as a ranking factor.
 
 ---
 
-## ▶️ How to Run the Project
 
-### Backend
-```bash
-cd backend
-pip install -r requirements.txt
-uvicorn app.main:app --reload
 
-### Run Frontend Locally
-```bash
-cd frontend
-npm install
-npm run dev
+
