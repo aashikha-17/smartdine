@@ -1,4 +1,4 @@
-# SmartDine – AI-Powered Food Discovery Assistant
+# SmartDine - AI - Powered Food Discovery Assistant
 
 SmartDine is an AI-powered food discovery application that helps users find nearby restaurants based on natural language or voice-based food preferences. It combines AI intelligence, rule-based recommendations, and location awareness to simplify everyday food decisions.
 
@@ -48,7 +48,7 @@ SmartDine is an AI-powered food discovery application that helps users find near
 
 ---
 
-## 📐 Recommendation Logic
+## Recommendation Logic
 
 Restaurants are ranked based on:
 - Cuisine match
