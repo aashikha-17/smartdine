@@ -6,7 +6,7 @@ SmartDine is an AI-powered food discovery application that helps users find near
 
 ## Features
 
--  Natural language food search (e.g., “something cheesy but not too expensive”)
+-  Natural language food search (e.g. “something cheesy but not too expensive”)
 -  Voice-based food input using browser speech recognition
 -  AI-powered intent understanding using Groq LLM
 -  Explainable restaurant recommendations
